@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\fixtures",
+    "\\cypress\\integration",
+    "\\cypress\\integration\\Creaci\u00F3n de cliente, cuenta y eliminacion",
+    "\\cypress\\integration\\Transaccion cuenta Rupee",
+    "\\cypress\\plugins",
+    "\\cypress\\support"
+  ],
+  "SelectedNode": "\\cypress\\integration\\Creaci\u00F3n de cliente, cuenta y eliminacion\\creacioncliente.spec.js",
+  "PreviewInSolutionExplorer": false
+}
